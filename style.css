@@ -99,49 +99,73 @@ h1{ color: white;
     font-size: 18px;
     font-style: oblique;
     background-color: black;
-    display:inline-block}
+    display:block;
+  border:5px;
+border-radius:10px;
+padding:5px;}
 #fish{
 color: white;
         font-family:'Shin Go Normal', sans-serif;
     font-size: 24px;
     font-style: oblique;
-    background-color: blue;
-    display:inline-block}
+  background-color:blue;
+  display:block;
+  border:5px;
+border-radius:10px;
+padding:5px;
+}
 #scallop{
 color: rgb(0, 0, 0);
         font-family:'Shin Go Normal', sans-serif;
     font-size: 24px;
     font-style: oblique;
-    background-color:turquoise;
-    display:inline-block}
+    background-color:aqua;
+    display:block;
+    border:5px;
+border-radius:10px;
+padding:5px;
+  }
 #shrimp{
 color: black;
         font-family:'Shin Go Normal', sans-serif;
     font-size: 24px;
     font-style: oblique;
-    background-color: greenyellow;
-    display:inline-block}
+  background-color:greenyellow;
+    display:block;
+    border:5px;
+border-radius:10px;
+padding:5px;}
 #squid{
 color: black;
         font-family:'Shin Go Normal', sans-serif;
     font-size: 24px;
     font-style: oblique;
     background-color: yellow;
-    display:inline-block}
+    display:block;
+    border:5px;
+border-radius:10px;
+padding:5px;
+  }
 #octopus{
 color: black;
         font-family:'Shin Go Normal', sans-serif;
     font-size: 24px;
     font-style: oblique;
-    background-color: orange;
-    display:inline-block}
+    background-color:orange;
+    display:block;
+    border:5px;
+border-radius:10px;
+padding:5px;}
 #crab{
 color: black;
         font-family:'Shin Go Normal', sans-serif;
     font-size: 24px;
     font-style: oblique;
-    background-color:red;
-    display:inline-block}
+   background-color:red;
+    display:block;
+    border:5px;
+border-radius:10px;
+padding:5px;}
 .centerTable {
     margin: auto;
     width:100%;
